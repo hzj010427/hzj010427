@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Zijie Huang</h1>
-<h3 align="center">I am deeply passionate about both hardware and software realms, a convergence that empowers me to bridge the gap between these disciplines.</h3>
 
 - 🌱 I’m currently learning **distributed system and database**
 
