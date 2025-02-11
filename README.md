@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hzj010427&label=Profile%20views&color=0e75b6&style=flat" alt="hzj010427" /> </p>
 
-- 🌱 I’m currently learning **distributed system and database**
-
 - 👨‍💻 All of my projects are available at [https://github.com/hzj010427](https://github.com/hzj010427)
 
 - 📫 How to reach me **hzj010427@gmail.com**
