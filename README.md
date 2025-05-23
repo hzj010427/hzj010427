@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **hzj010427@gmail.com**
 
+- 🧑‍💻 More about me at [https://zijieh.com/](https://zijieh.com/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/zijie-huang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zijie huang" height="30" width="40" /></a>
